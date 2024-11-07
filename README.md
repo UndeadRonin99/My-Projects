@@ -181,6 +181,3 @@ These projects provided hands-on experience and significant growth across multip
 - **Project Management**: Strengthened project planning and management skills, focusing on task prioritization, resource allocation, and deadline adherence, while continuously adapting to project requirements and goals.
 
 Each repository contains a comprehensive **README** file that dives deeper into the features, technologies, and development methodologies used. However, I have learned even more skills, which are further detailed in my CV.
-
-
-# Please note these are not all my skills but only from the few projects listed here
